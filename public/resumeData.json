@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Hareem Bokhari",
+    "occupation":"Software Developer",
+    "description":"I recently graduated from Brooklyn College CUNY with a Bachelor of Science in Computer Science and Mathematics and I'm looking for software development opportunities in the NYC Metropolitan area",
+    "image":"profilepic.jpg",
+    "bio":"I am a recent graduate from Brooklyn College CUNY with a B.S (Cum Laude) degree in Computer Science and Mathematics. As one of 125 students selected out of hundreds of applicants for CTP, CUNY Tech Prep - a full stack JavaScript training program- I learnt in-demand technologies like React, Node + Express, and PostgreSQL as well as industry best practices for design, implementation, and deployment such as MVC, version control with Git/GitHub, agile & Scrum with Trello and Slack, test driven development, and CI/CD. I was also selected for their Data Science program where I implemented projects based on Data Collection and Processing, Statistical Modeling, Data Visualization, and Machine Learning Techniques.  I am currently seeking software development opportunities and I’m passionate for full stack web development. I exhibit a hard working mentality and am always eager to learn and adapt to different environments!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hbokhari98@gmail.com",
+    "phone": "(917)-302-4458",
+    "address":{
+      "street":"750 Coney Island Ave",
+      "city":"New York City",
+      "state":"New York",
+      "zip": "11218"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://github.com/hbokhari98/HareemBokhariResume/blob/main/HareemBokhariResume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hareem-bokhari/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hbokhari98",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Brooklyn College CUNY",
+        "degree":"Bachelor of Science in Computer Science and Mathematics",
+        "graduated":"May 2020",
+        "description":"Relevant Coursework: Analysis of Algorithms, Computer Architecture, Cryptography and Cryptanalysis, Data Structures, Database Systems, Design & Implementation Web Application, Linear Algebra, Multivariable Calculus, Object-Oriented Programming, Operating Systems, Operations Management, Probability and Statistics I, Probability and Statistics II"
+      }
+    ],
+    "work":[
+      {
+        "company":"NYC Tech Talent Pipeline - CUNY Tech Prep",
+        "title":"Full Stack Web Developer Fellow",
+        "years":"June 2019 - June 2020",
+        "description":"Selected for a full stack JavaScript training program, as one of 125 students out of 400+ applicants. Learn in-demand technologies like React, Node + Express, and PostgreSQL as well as industry best practices for design, implementation, and deployment such as MVC, version control with Git/GitHub, agile & Scrum with Trello and Slack, test driven development, and CI/CD. Selected for a 16-week project-based curriculum on Data Science and Machine Learning in Python. Implement projects based on Data Collection and Processing, Statistical Modeling, Data Visualization, Machine Learning Techniques, Data Science Process and Big Data"
+      },
+      {
+        "company":"Brooklyn College CUNY",
+        "title":"Office Assistant",
+        "years":"September 2017 - May 2020",
+        "description":"Built a web application, using WordPress, for prospective majors interested in Women and Gender Studies, as well as an archive containing past event flyers and information. Assisted in event and meeting planning and management as requested through creating fliers and publicizing events through social media, setting up of events, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      },
+      {
+        "name":"Unix/Linux",
+        "level":"90%"
+      },
+      {
+        "name":"Jupyter Notebook",
+        "level":"75%"
+      },
+      {
+        "name":"R",
+        "level":"75%"
+      },
+      {
+        "name":"Eclipse",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

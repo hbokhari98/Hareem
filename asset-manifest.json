@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hareem/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Hareem/static/js/main.dfe35017.chunk.js",
+    "main.js.map": "/Hareem/static/js/main.dfe35017.chunk.js.map",
+    "runtime-main.js": "/Hareem/static/js/runtime-main.2ea8d20c.js",
+    "runtime-main.js.map": "/Hareem/static/js/runtime-main.2ea8d20c.js.map",
+    "static/js/2.b643e6ed.chunk.js": "/Hareem/static/js/2.b643e6ed.chunk.js",
+    "static/js/2.b643e6ed.chunk.js.map": "/Hareem/static/js/2.b643e6ed.chunk.js.map",
+    "index.html": "/Hareem/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Hareem/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.b643e6ed.chunk.js.LICENSE.txt": "/Hareem/static/js/2.b643e6ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea8d20c.js",
+    "static/js/2.b643e6ed.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.dfe35017.chunk.js"
+  ]
+}
